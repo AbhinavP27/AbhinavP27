@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">Python Full Stack Developer | Django & React Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Python Full Stack Developer | Django & React Developer from India 🇮🇳</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AbhinavP27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,10 +9,10 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Python Full Stack Development (Django + React)**
-* 💻 Passionate about **Web Application Development**
-* 🚀 Interested in **Frontend & Backend Technologies**
-* 🔍 Exploring **Automation Testing using Selenium**
+* 🌱 Currently learning **Python Full Stack Development**
+* 💻 Passionate about **Web Development**
+* 🚀 Interested in **Backend Development & Modern Frontend**
+* 🔍 Exploring **Automation Testing with Selenium**
 * 📫 Email: **[abhinavp2413@gmail.com](mailto:abhinavp2413@gmail.com)**
 * 📞 Phone: **9995161150**
 
@@ -75,7 +75,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AbhinavP27/AbhinavP27/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/AbhinavP27/AbhinavP27/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
