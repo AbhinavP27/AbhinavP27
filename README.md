@@ -70,13 +70,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavP27&theme=tokyonight"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AbhinavP27/AbhinavP27/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
