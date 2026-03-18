@@ -2,23 +2,23 @@
 <h3 align="center">Python Full Stack Developer | Django & React Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhinavp2413&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AbhinavP27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 🌱 Currently learning **Python Full Stack Development (Django + React)**
 * 💻 Passionate about **Web Application Development**
-* ⚡ Interested in **Backend Engineering & Modern Frontend**
-* 🔍 Exploring **Automation Testing with Selenium**
+* 🚀 Interested in **Frontend & Backend Technologies**
+* 🔍 Exploring **Automation Testing using Selenium**
 * 📫 Email: **[abhinavp2413@gmail.com](mailto:abhinavp2413@gmail.com)**
 * 📞 Phone: **9995161150**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
 </a>
 
-<a href="https://github.com/abhinavp2413" target="_blank">
+<a href="https://github.com/AbhinavP27" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="30"/>
 </a>
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Languages and Tools
+## 🚀 Languages and Tools
 
 <p align="left">
 
@@ -52,26 +52,34 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavp2413&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinavP27&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavp2413&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavP27&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavp2413&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavP27&theme=tokyonight"/>
 </p>
 
 ---
 
-### 💡 Developer Quote
+## 🐍 Contribution Snake
 
-> "First, solve the problem. Then, write the code." – John Johnson
+<p align="center">
+<img src="https://raw.githubusercontent.com/AbhinavP27/AbhinavP27/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code."
